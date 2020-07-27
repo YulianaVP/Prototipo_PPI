@@ -1,0 +1,63 @@
+body{
+    margin: 0;
+    background: white;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.navbar{
+    margin-bottom: 0;
+    background-color: #25363e;
+    height: 65px;
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+.h3{
+    color: #fff;
+}
+.h3, h3 {
+    font-size: 1.75rem;
+}
+.modal-title {
+    margin-bottom: 0;
+    line-height: 1.5;
+}
+.h5, h5 {
+    font-size: 1.25rem;
+}
+.text-warning {
+    color: #ffc107!important;
+}
+.jumbotron-1{
+    text-align: center;
+    color: white;
+    background-color: #7e5535;
+}
+.btn-group>.btn-group:not(:last-child)>.btn, .btn-group>.btn:not(:last-child):not(.dropdown-toggle) {
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+}
+.btn-group>.btn:not(:first-child) {
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+}
+.btn-group .btn+.btn, .btn-group .btn+.btn-group, .btn-group .btn-group+.btn, .btn-group .btn-group+.btn-group, .btn-group-vertical .btn+.btn, .btn-group-vertical .btn+.btn-group, .btn-group-vertical .btn-group+.btn, .btn-group-vertical .btn-group+.btn-group {
+    margin-left: -1px;
+}
+.btn-secondary {
+    color: #fff;
+    background-color: #6c757d;
+    border-color: #6c757d;
+}
+.btn-group-vertical>.btn, .btn-group>.btn {
+    position: relative;
+    -webkit-box-flex: 0;
+    -ms-flex: 0 1 auto;
+    flex: 0 1 auto;
+}

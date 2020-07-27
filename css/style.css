@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+    background: white;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.navbar{
+    margin-bottom: 0;
+    background-color: #25363e;
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+.jumbotron-1{
+    text-align: center;
+    color: white;
+    background-color: #7e5535;
+}
+
+.bi{
+    color: #25363e;
+}
+
+.caption{
+    text-align: center;
+}
